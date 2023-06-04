@@ -1,4 +1,4 @@
-package com.eviro.assessment.grad001.MarthaNyalivane;
+package com.eviro.assessment.grad001.MarthaNyalivane.parser;
 
 import java.io.File;
 import java.net.URL;
