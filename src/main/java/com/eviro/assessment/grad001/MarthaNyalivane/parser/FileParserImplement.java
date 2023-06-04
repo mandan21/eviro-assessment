@@ -49,7 +49,7 @@ public class FileParserImplement implements FileParser {
                 // Create an AccountProfile object and save it to the database
                 AccountProfile accountProfile = new AccountProfile();
                 accountProfile.setAccountHolderName(name);
-                accountProfile.setAccountHolderSurname(surname);
+                // accountProfile.setAccountHolderSurname(surname);
                 accountProfile.setHttpImageLink(httpImageLink.toString());
 
                 accountProfileRepository.save(accountProfile);

@@ -40,9 +40,9 @@ public class AccountProfile {
         return accountHolderSurname;
     }
 
-    public void setAccountHolderSurname(String accountHolderSurname) {
-        this.accountHolderSurname = accountHolderSurname;
-    }
+    // public void setAccountHolderSurname(String accountHolderSurname) {
+    //     this.accountHolderSurname = accountHolderSurname;
+    // }
 
     public String getHttpImageLink() {
         return httpImageLink;
